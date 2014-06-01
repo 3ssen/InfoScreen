@@ -5,7 +5,7 @@ var lang = window.navigator.language;
 
 //change weather params here:
 var weatherParams = {
-    'q':'Baarn,Netherlands',
+    'q':'Eindhoven,Netherlands',
     'units':'metric',
     'lang':lang
 };
